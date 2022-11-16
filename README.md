@@ -3,6 +3,6 @@
 
 ### Current solution
 * Open [notebook](/search-resources.ipynb), and follow the instructions.
-
-### Future solution
-* Add ability to loop through profiles to fetch "org" wide search results
+* Simple search
+* Use excel file to perform multi-search
+* Ability to loop through profiles to fetch multi-acount wide search results
